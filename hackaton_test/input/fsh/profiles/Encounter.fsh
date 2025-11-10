@@ -31,7 +31,7 @@ Description: """
 //* serviceType.coding[VOLVEN_8451] ^definition = "Fagområde (OID=8451)"
 //* serviceType.coding[VOLVEN_8451] ^mustSupport = false
 //* serviceType.coding[VOLVEN_8451] ^binding.description = "Volven"
-* priority.coding[VOLVEN_8306] from urn:oid:2.16.578.1.12.1.1.8603
+* priority.coding[VOLVEN_8306] from urn:oid:2.16.578.1.12.4.1.1.8603
 * priority.coding[VOLVEN_8306] ^short = "Volve 8603"
 * priority.coding[VOLVEN_8306] ^definition = "Hastegrad henvisning"
 * priority.coding[VOLVEN_8306] ^mustSupport = false
