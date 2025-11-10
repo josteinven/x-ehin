@@ -1,0 +1,21 @@
+# hl7.fhir.no.mal.jostein#0.1.0: Jostein_Mal
+
+## Pages
+
+* [Home](index.md)
+* [Artifacts Summary](artifacts.md)
+
+## Resources
+
+### Resource Profiles
+
+* [Blodprøve](StructureDefinition-mal-observation-blodprove.md)
+* [Pasient](StructureDefinition-mal-patient.md)
+
+### ImplementationGuides
+
+* [Jostein_Mal](index.md)
+
+### Examples
+
+* [Pasient-1 (Patient)](Patient-Pasient-1.md)

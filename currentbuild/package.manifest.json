@@ -1,0 +1,7 @@
+{
+  "version" : "0.1.0",
+  "fhirVersion" : ["4.0.1"],
+  "date" : "20251110122432",
+  "name" : "hl7.fhir.no.mal.jostein",
+  "jurisdiction" : "urn:iso:std:iso:3166#NO"
+}
