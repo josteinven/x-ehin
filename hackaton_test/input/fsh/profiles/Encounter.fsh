@@ -1,7 +1,7 @@
-Profile: Hackaton_Test
-Id: no-domain-Hackaton_Test-Encounter
+Profile: Hackaton-Test
+Id: no-domain-Hackaton-Test-Encounter
 Parent: Encounter
-Title: "no-domain-Hackaton_Test-Encounter"
+Title: "no-domain-Hackaton-Test-Encounter"
 Description: """
 //The encounter associated with auditevent if any (Auditevent._encounter).
 """
