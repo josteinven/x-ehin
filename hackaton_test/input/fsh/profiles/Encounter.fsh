@@ -5,7 +5,7 @@ Title: "no-domain-Hackaton-Test-Encounter"
 Description: """
 //The encounter associated with auditevent if any (Auditevent._encounter).
 """
-* ^status = #active
+//* ^status = #active
 //* serviceType ^short = "care_relation:healthcare_service:*"
 //* serviceType.coding.code ^short = "care_relation:healthcare_service:code"
 //* serviceType.coding.system ^short = "care_relation:healthcare_service:system"
