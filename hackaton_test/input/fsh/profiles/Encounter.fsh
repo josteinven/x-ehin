@@ -16,6 +16,7 @@ Title: "no-domain-Hackaton-Test-Encounter"
 //* serviceType.coding ^slicing.rules = #open
 //* serviceType.coding contains
 //    VOLVEN_8655 0..1 and VOLVEN_8663 0..1 and VOLVEN_8451 0..1
+    VOLVEN_8603 0..1
 //* serviceType.coding[VOLVEN_8655] from urn:oid:2.16.578.1.12.4.1.1.8655 
 //* serviceType.coding[VOLVEN_8655] ^short = "Volven 8655"
 //* serviceType.coding[VOLVEN_8655] ^definition = "Helsehjelpsområde (OID=8655)"
