@@ -2,9 +2,9 @@ Profile: Hackaton-Test
 Id: no-domain-Hackaton-Test-Encounter
 Parent: Encounter
 Title: "no-domain-Hackaton-Test-Encounter"
-Description: """
+//Description: """
 //The encounter associated with auditevent if any (Auditevent._encounter).
-"""
+//"""
 //* ^status = #active
 //* serviceType ^short = "care_relation:healthcare_service:*"
 //* serviceType.coding.code ^short = "care_relation:healthcare_service:code"
@@ -31,11 +31,11 @@ Description: """
 //* serviceType.coding[VOLVEN_8451] ^definition = "Fagområde (OID=8451)"
 //* serviceType.coding[VOLVEN_8451] ^mustSupport = false
 //* serviceType.coding[VOLVEN_8451] ^binding.description = "Volven"
-* priority.coding[VOLVEN_8306] from urn:oid:2.16.578.1.12.4.1.1.8603
-* priority.coding[VOLVEN_8306] ^short = "Volve 8603"
-* priority.coding[VOLVEN_8306] ^definition = "Hastegrad henvisning"
-* priority.coding[VOLVEN_8306] ^mustSupport = false
-* priority.coding[VOLVEN_8306] ^binding.description = "Volven"
+* priority.coding[VOLVEN_8603] from urn:oid:2.16.578.1.12.4.1.1.8603
+* priority.coding[VOLVEN_8603] ^short = "Volve 8603"
+* priority.coding[VOLVEN_8603] ^definition = "Hastegrad henvisning"
+* priority.coding[VOLVEN_8603] ^mustSupport = false
+* priority.coding[VOLVEN_8603] ^binding.description = "Volven"
 //* location.location only Reference(AuditeventEncounterPointofcare)
 //* location.location ^short = "patients:point_of_care_patient:*"
 //* serviceProvider ^short = "patients:department:*"
